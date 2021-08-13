@@ -11,7 +11,7 @@
       "docker-env": {
         "versionAzureCli": "2.21.0",
         "versionKubectl": "1.21.0",
-        "versionGit": "2.25.1",
+        "versionGit": "2.32.0",
         "versionTflint": "0.24.1",
         "versionJq": "1.6",
         "versionDockerCompose": "1.27.4",

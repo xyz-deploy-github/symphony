@@ -9,10 +9,11 @@
     "terminal.integrated.shell.linux": "/bin/bash"
   },
   "extensions": [
-    "editorconfig.editorconfig",
-    "golang.go",
-    "hashicorp.terraform",
-    "ms-azuretools.vscode-azureterraform",
-    "ms-azuretools.vscode-docker",
-  ]
+	"editorconfig.editorconfig",
+	"golang.go",
+	"hashicorp.terraform",
+	"ms-azuretools.vscode-azureterraform",
+	"ms-azuretools.vscode-docker",
+	"octref.vetur"
+]
 }
